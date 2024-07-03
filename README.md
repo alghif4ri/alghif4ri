@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, I'm Abudzar Alghifari 👋
 
-<!--
-**alghif4ri/alghif4ri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a software developer with expertise in web development and data science. I enjoy learning new technologies and contributing to open-source projects.
 
-Here are some ideas to get you started:
+## 🔭 Current Projects
+- [Project 1](link to project): A brief description of the project.
+- [Project 2](link to project): A brief description of the project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Programming: PHP, JavaScript, Python
+- Frameworks: Vue, Node.js
+- Data Science: Pandas
+
+## 📫 Contact Me
+- Email: [r.abudzar@gmail.com](r.abudzar@gmail.com)
+- LinkedIn: [R Muhammad Abudzar Alghifari](https://www.linkedin.com/in/abudzar-al-ghifari-150b18a3/)
+- Twitter: [@mangendoots](https://twitter.com/mangendoots)
+
+## 📈 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alghif4ri&show_icons=true)
+
+Thank you for visiting my profile! 😊
