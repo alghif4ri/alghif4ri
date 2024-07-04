@@ -1,11 +1,17 @@
 # Hello, I'm Abudzar Alghifari 👋
 
 ## About Me
-I am a software developer with expertise in web development and data science. I enjoy learning new technologies and contributing to open-source projects.
+I am a software developer with expertise in web development and also learning Python for data analyst. I am quite proficient with PHP, but currently I am deepening some Javascript Framework and modern tech stack.
 
 ## 🔭 Current Projects
-- [Project 1](link to project): A brief description of the project.
-- [Project 2](link to project): A brief description of the project.
+- ([LaraShop](https://github.com/alghif4ri/larashop)): A simple online store by implementing a Single Page Application built with Laravel and Livewire and integrated with Midtrans Payment Gateway.
+
+## 💼 Work Experience / Past Projects
+- **[PerPusNas | Tech Stack : Codeigniter 3](#)** (Nov/2021 - Feb/2022)
+  - Bug fixes on dashboard page
+  - Improved UX to speed up repetitive inputting by users
+  - Added SMTP email feature for communication needs between divisions
+  - Added some new modules as needed. 
 
 ## 🚀 Skills
 - Programming: PHP, JavaScript, Python
