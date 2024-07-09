@@ -16,7 +16,8 @@ I am a software developer with expertise in web development and also learning Py
 
 ## 🚀 Skills
 - Programming: PHP, JavaScript, Python
-- Frameworks: Vue, Node.js
+- Frameworks: Codeigniter 3, Laravel, VueJ, Node.js
+- Database : MySql, PostgreSQL, MongoDB
 - Data Science: Pandas
 
 ## 📫 Contact Me
@@ -24,7 +25,8 @@ I am a software developer with expertise in web development and also learning Py
 - LinkedIn: [R Muhammad Abudzar Alghifari](https://www.linkedin.com/in/abudzar-al-ghifari-150b18a3/)
 - Twitter: [@mangendoots](https://twitter.com/mangendoots)
 
-## 📈 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alghif4ri&show_icons=true)
+### Github Stats
 
-Thank you for visiting my profile! 😊
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alghif4ri)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alghif4ri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
