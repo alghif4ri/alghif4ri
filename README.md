@@ -4,6 +4,7 @@
 I am a software developer with expertise in web development and also learning Python for data analyst. I am quite proficient with PHP, but currently I am deepening some Javascript Framework and modern tech stack.
 
 ## 🔭 Current Projects
+- ([LuxRoom](https://github.com/alghif4ri/luxroom)): luxroom is a furniture online store built with laravel 8 as backend and tailwind as frontend, payment gateway with midtrans
 - ([LaraShop](https://github.com/alghif4ri/larashop)): A simple online store by implementing a Single Page Application built with Laravel and Livewire and integrated with Midtrans Payment Gateway.
 
 ## 💼 Work Experience / Past Projects
