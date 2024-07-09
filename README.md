@@ -1,6 +1,4 @@
-# Hello, I'm Abudzar Alghifari 👋
-
-## About Me
+# Hello, I'm Alghifari 👋
 I am a software developer with expertise in web development and also learning Python for data analyst. I am quite proficient with PHP, but currently I am deepening some Javascript Framework and modern tech stack.
 
 ## 🔭 Current Projects
