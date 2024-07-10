@@ -13,15 +13,27 @@ I am a software developer with expertise in web development and also learning Py
   - Added some new modules as needed. 
 
 ## 🚀 Skills
-- Programming: PHP, JavaScript, Python
-- Frameworks: Codeigniter 3, Laravel, VueJ, Node.js
-- Database : MySql, PostgreSQL, MongoDB
-- Data Science: Pandas
+  [![HTML5](https://img.icons8.com/color/48/000000/html-5.png)](https://html.spec.whatwg.org/)
+  [![CSS](https://img.icons8.com/color/48/000000/css3.png)](https://www.w3.org/Style/CSS/)
+  [![PHP](https://img.icons8.com/color/48/000000/php.png)](https://www.php.net/)
+  [![Codeigniter](https://img.icons8.com/ios-glyphs/30/000000/codeigniter.png)](https://codeigniter.com/)
+  [![Laravel](https://img.icons8.com/fluent/48/000000/laravel.png)](https://laravel.com/)
+  [![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)](https://getbootstrap.com/)
+  [![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://www.javascript.com/)
+  [![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)](https://vuejs.org/)
+  [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
+  [![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)](https://www.mysql.com/)
+  [![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)](https://www.postgresql.org/)
+  [![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
+  [![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
+  [![Pandas](https://img.icons8.com/color/48/000000/pandas.png)](https://pandas.pydata.org/)
+  [![Debian](https://img.icons8.com/color/48/000000/debian.png)](https://www.debian.org//)
+  [![Debian](https://img.icons8.com/color/48/000000/ubuntu.png)](https://www.ubuntu.org//)
 
 ## 📫 Contact Me
-- Email: [r.abudzar@gmail.com](r.abudzar@gmail.com)
-- LinkedIn: [R Muhammad Abudzar Alghifari](https://www.linkedin.com/in/abudzar-al-ghifari-150b18a3/)
-- Twitter: [@mangendoots](https://twitter.com/mangendoots)
+[![Email](https://img.icons8.com/ios-glyphs/30/000000/email.png)](mailto:r.abudzar@gmail.com)
+[![LinkedIn](https://img.icons8.com/ios-glyphs/30/000000/linkedin.png)](https://www.linkedin.com/in/abudzar-al-ghifari-150b18a3/)
+[![Twitter](https://img.icons8.com/ios-glyphs/30/000000/twitter.png)](https://twitter.com/mangendoots)
 
 ### Github Stats
 
