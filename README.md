@@ -6,7 +6,7 @@ I am a software developer with expertise in web development and also learning Py
 - ([LaraShop](https://github.com/alghif4ri/larashop)): A simple online store by implementing a Single Page Application built with Laravel and Livewire and integrated with Midtrans Payment Gateway.
 
 ## 💼 Work Experience / Past Projects
-- **[PerPusNas | Tech Stack : Codeigniter 3](#)** (Nov/2021 - Feb/2022)
+- **[PerPusNas | Tech Stack : Codeigniter 3](#)** (Nov/2022 - Feb/2023)
   - Bug fixes on dashboard page
   - Improved UX to speed up repetitive inputting by users
   - Added SMTP email feature for communication needs between divisions
